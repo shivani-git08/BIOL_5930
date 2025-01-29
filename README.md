@@ -27,6 +27,6 @@ Repository Structure:-
 - analysis_pipeline.py
 
 Naming Conventions:
-Main folders follow the Table of content structure (Data, Analysis, Results)
-Use _ instead of spaces.
-Descriptive names to indicate file contents
+- Main folders follow the Table of content structure (Data, Analysis, Results)
+- Use _ instead of spaces.
+- Descriptive names to indicate file contents
